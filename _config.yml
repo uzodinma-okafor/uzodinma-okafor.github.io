@@ -1,0 +1,6 @@
+title: Uzodinma
+logo: https://github.com/uzodinma-okafor/uzodinma-okafor.github.io/blob/main/assets/images/Top%20UK%20YouTubers%202024%20dashboard.png
+show_downloads: True
+remote_theme: pages-themes/cayman@v0.2.0
+plugins:
+- jekyll-remote-theme 
